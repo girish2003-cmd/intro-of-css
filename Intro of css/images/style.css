@@ -1,0 +1,36 @@
+#mainHeading{
+    color:rgb(255, 0, 162);
+    font-size: 3.5rem;
+    text-align: center;
+    background-color: rgb(42, 182, 237);
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 35px;
+}
+#NCBN{
+    color:rgb(249, 249, 0);
+    background-color: black;
+    font-size: 2.5rem;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+#body{
+    background-color: beige;
+}
+#BJP{
+    color: orangered;
+    background-color: black;
+    font-size: 2.5rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#pk{
+    color: rgb(203, 10, 10);
+    background-color: black;
+    font-size: 2.5rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#ysr{
+    color: blue;
+    background-color: black;
+    font-size:  2.5rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
